@@ -3,5 +3,7 @@ Uses publicly available cricket data to find the most interesting cricket matche
 
 
 # Running the program
-`pip install streamlit`
-`streamlit run streamlit.py`
+```bash
+pip install streamlit
+streamlit run streamlit.py
+```
